@@ -1,0 +1,20 @@
+file:
+    podatki o datoteki
+
+strings:
+    iz datoteke izpiše ascii berljive stringe
+
+hexdump:
+    slike, ipd. pokaše v HEX
+
+readelf:
+    podatki o datetekah ELF????
+
+objdump:
+    pokaše objekte v ELF-u
+
+gdb:
+    debugger
+
+stripped datoteka:
+    ima neke simbole (imena funkcij, spemenljivk)
