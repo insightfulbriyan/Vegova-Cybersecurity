@@ -8,13 +8,17 @@ hexdump:
     slike, ipd. pokaše v HEX
 
 readelf:
-    podatki o datetekah ELF????
+    podatki o datetekah ELF (https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 
 objdump:
-    pokaše objekte v ELF-u
+    pokaže objekte v ELF-u - kodo pokaže v asm
 
 gdb:
     debugger
 
 stripped datoteka:
-    ima neke simbole (imena funkcij, spemenljivk)
+    nima imen spremenljivk, funkcij itd.
+
+
+ghidra:
+    iz binaryja naredi c (magic)
